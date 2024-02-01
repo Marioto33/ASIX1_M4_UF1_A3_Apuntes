@@ -118,19 +118,6 @@ El codigo se expresa con 3 comas y se interpreta asi:
   1. lista                          Elemento de lista 5 con TAB
   2. lista                          Elemento de lista 6 con TAB
 
-### LINKS
-```
-<https://drive.google.com/>
-```
-<https://drive.google.com/>
-
-## IMAGENES
-```
-![IMAGEN](img/Screenshot_2.png)
-```
-![IMAGEN](img/Screenshot_2.png)
-
-
 # HTML
 
 ### ANATOMIA HTML
