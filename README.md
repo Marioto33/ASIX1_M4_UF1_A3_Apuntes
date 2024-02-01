@@ -1,6 +1,32 @@
 # ASIX1_M4_UF1_A3_Apuntes
 Apuntes del curso
 
+# Github
+### Crear Respositorio
+##### Para crear un repositorio clicaremos en el boton verde que pone 'New':
+![IMG1](img/1.png)
+##### Seleccionamos los ajustes como el nombre, el estado, privado o publico y si queremos archivo README. Una vez acabemos, creamos el repositorio con el boton verde.
+![IMG1](img/2.jpg)
+##### El repositorio ya estaria listo para usarse.
+
+### Github Pages
+##### Para conseguir el link de nuestra pagina web, debemos ir a 'Settings', en el apartado de 'Pages' veremos un seleccionador con 'None', ahí debemos cambiarlo por 'main'.
+![IMG1](img/3.jpg)
+![IMG1](img/4.jpg)
+##### Una vez cambiado por 'main' guardaremos los cambios y nos aparecerá un link arriba. Este es el link de nuestra web de github.
+![IMG1](img/5.jpg)
+##### Para acabar vamos al principio de la pagina en github y vamos a este botón.
+![IMG1](img/8.jpg)
+##### Con el link copiado lo pegamos en ese recuadro llamado 'Website' y guardamos. Esto es para que el link aparezca en la pagina principal y sea mas intuitivo.
+![IMG1](img/9.jpg)
+![IMG1](img/10.jpg)
+
+### Clonar Repositorio en VisualStudio
+##### Para clonar el repositorio debemos copiar el codigo HTTPS como se muetra en la imagen.
+![IMG1](img/6.png)
+##### Despues entraremos al Visual Studio Code y abriremos un terminal en el cual pondremos el comando expecificado en pantalla y despues el codigo HTTPS que hemos copiado anteriormente. 
+![IMG1](img/7.jpg)
+
 # Markdown
 ### Encabezados
 Se utilizan de titulo, en los cuales hay diferentes tamaños:
